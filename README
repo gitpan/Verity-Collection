@@ -12,11 +12,9 @@ License or the GPL, included in the distribution as COPYING.Artistic
 and COPYING.GPL )
 ------------------------------------------------------------------------
 
-This is an initial, interface-only alpha release. It is not intended
-to show anything other than interface plans. If you have patches or
-suggestions, please send them to srl@cpan.org. Thanks.
+This is an ALPHA release; that means that if it breaks you get to
+keep both pieces. However, it should be at a basic functional level.
+See ChangeLog for details on what's changed since 0.01.
 
-I expect there will be a pre-alpha release out within a few weeks.
-
-Shane Landrum, August 30 2001
+Shane Landrum, September 4 2001
 srl@cpan.org
