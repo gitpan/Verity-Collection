@@ -1,0 +1,22 @@
+README for Verity::Search 0.01
+
+------------------------------------------------------------------------
+(C) COPYRIGHT 2001, Shane Landrum.
+
+See the AUTHORS file included in the distribution for a full list.
+
+This package is free software and is provided "as is" without
+express or implied warranty.  It may be used, redistributed and/or
+modified under the same terms as perl itself. ( Either the Artistic
+License or the GPL, included in the distribution as COPYING.Artistic
+and COPYING.GPL )
+------------------------------------------------------------------------
+
+This is an initial, interface-only alpha release. It is not intended
+to show anything other than interface plans. If you have patches or
+suggestions, please send them to srl@cpan.org. Thanks.
+
+I expect there will be a pre-alpha release out within a few weeks.
+
+Shane Landrum, August 30 2001
+srl@cpan.org
